@@ -1,0 +1,123 @@
+ul#li_left {
+    margin-left: 640px;
+}
+.header_part{
+    border-bottom: 1px solid #e7e7e7;
+    /*margin-bottom: 50px;*/
+    background-color: #f8f8f8;
+}
+p.header_text {
+    margin: 10px -60px;
+    font-size: 22px;
+}
+
+/*----------- table ------------*/
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    font-size: 14px;
+}
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+}
+/*.table_section{
+    font-size: 13px;
+}*/
+.table_pagination{
+    margin-top: -50px;
+}
+.table_part{
+    margin-top: -46px;
+}
+
+/*------------- add-book ------------------*/
+.add_book{
+    border: 1px solid #ccc;
+    overflow: hidden;
+    border-radius: 6px;
+    /*min-height: 400px;*/
+    /*padding: 100px;*/
+}
+.add_book_form{
+    padding: 30px 320px;
+}
+.back_button{
+    margin-top: 8px;
+}
+.color_orange{
+    color: darkcyan;
+}
+
+/*--------------- mini-project-style-sheet ------------------*/
+
+*{
+    /*    margin-right: 0px !important;
+        margin-left: 0px !important;*/
+    /*    padding-right: 0px !important;
+        padding-left: 0px !important;*/
+}
+.sidebar_part{
+    min-height: 600px;
+    border-right: 1px solid #e7e7e7;
+    margin-left: -105px;
+    padding-left: 0px;
+    background-color: #f8f8f8;
+    width: 180px;
+    padding-right: 0px;
+}
+.sidebar_part > ul > li{
+    border-bottom: 1px solid #e7e7e7;
+}
+.sidebar_part > ul > li > a{
+    margin-left: 15px;
+}
+.sidebar_part > ul > li:hover{
+    text-decoration: none;
+    background-color: #eee;
+}
+.sidebar_text{
+    margin-right: 30px;
+}
+.body_part{
+    min-height: 600px;
+    /*border-right: 1px solid #e7e7e7;*/
+}
+
+/*--------------login-------------*/
+.login-panel {
+    margin-top: 25%;
+}
+
+/*----------form-----------*/
+.page-header {
+    padding-bottom: 9px;
+    margin: 20px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+.form_part{
+    margin-top: 10px;
+}
+.submit_btn_margin{
+    margin-bottom: 50px;
+}
+
+/*--------------table-part------------*/
+.table_part{
+    margin-top: 2%;
+    margin-right: -40px;
+    margin-left: -68px;
+}
+.body_table_part{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+.table_main_part{
+    margin-top: -20px;
+}
+.table_pagination{
+    margin-top: -25px;
+}
